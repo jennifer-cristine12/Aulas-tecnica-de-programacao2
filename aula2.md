@@ -36,19 +36,31 @@ Qual fase nós estamos
   
        -banco de dados
   
-       -entidades
+              -entidades
   
-       -atributos
+              -atributos
   
-       -relacionamento
+              -relacionamento
   
-       -tipos de dados
+              -tipos de dados
 
 
 
 - projeto
 
         -como fazer?
+    
+       -banco de dados
+  
+              -entidades
+  
+              -atributos
+  
+              -relacionamento
+  
+              -tipos de dados
+  
+              -constraints
 
 - aplicação
 
@@ -58,6 +70,8 @@ Qual fase nós estamos
           -mer - logico
           -mer - fisico
           -script
+          -tabelas
+          -procedures
 
 ~~~~SQL
 
@@ -69,8 +83,7 @@ create table if not EXISTS conta(
 SELECT * from conta;
 
 ~~~~
-       -tabelas
-       -procedures
+       
 
    - software
 

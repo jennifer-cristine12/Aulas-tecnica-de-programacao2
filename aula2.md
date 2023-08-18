@@ -15,6 +15,13 @@ Processo de desenvolvimento de software
        -teste
  
        -implantação
+  
+              -metodo
+              -logica ParaConsistente
+              -Evidencia
+              -extrair contradição
+
+
 
 - manutenção
 

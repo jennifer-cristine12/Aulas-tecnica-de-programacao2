@@ -99,3 +99,40 @@ SELECT * from conta;
             -design patterns
              -MVC
              -DAO
+Fases
+- definição de grupos
+- definição dos especialistas
+- Método fabio de modelagem de dados
+
+          -passo 1: listar todos os subtantivos
+                -problema
+                -proposição
+          -passo 2: listar todos os objetos, significados ao negocio
+                -problema
+                -proposição
+          -passo 3: eliminar as redundancias
+                -problema
+          -passo 4: matriz de relacionamento
+                  +------------------------------------------+
+                  |      /     | curso   | aluno  | professor|  
+                  |  curso     |    -    | contem | contem   |
+                  |  aluno     | cursa   |   -    |    -     |                    
+                  |  professor | contido |  -     |    -     |                                              
+                  +------------------------------------------+
+            -perguntar: de que forma a entidade a se relaciona com a entidade b
+- minimização
+  
+         -maior certeza e menor incerteza
+         
+- certeza
+  
+       - λ
+       - grau de evidencia
+       - grau de certeza
+         - favoravel
+                -viabilidade
+         - desavoravel
+                -duvida
+
+  
+- incerteza

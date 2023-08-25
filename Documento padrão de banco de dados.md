@@ -1,7 +1,7 @@
 bd.0001.01
--banco de dados
--numero do documento
--versão
+- banco de dados
+- numero do documento
+- versão
 
 modelagem de dados
 - Listar todos os substantivos

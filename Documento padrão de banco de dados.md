@@ -14,3 +14,14 @@ modelagem de dados
 - MER fisico
 - criada as estruturas de banco de banco de dados
 
+            +-------------------------------------------------------+
+            | Entidade        | Representação        | exemplo  |  
+            | Banco de dados  | BD_nome_sobrenome    | BD_ParaDecision |
+            | Tabela          | TBL_Nome_OrdemCriação| TBL_PROPOSICAO |                    
+            | Atributo        | AOrdemTabela     |    -     |
+            | Sequencia       | Representação    | exemplo  |  
+            | Procedure       |    -    | contem | contem   |
+            | Function        | cursa   |   -    |    -     |                    
+            | Trigger         | contido |  -     |    -     |                   
+            | Cursor          | contido |  -     |    -     |                                       
+            +------------------------------------------+

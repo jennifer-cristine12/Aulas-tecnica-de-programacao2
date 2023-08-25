@@ -14,14 +14,15 @@ modelagem de dados
 - MER fisico
 - criada as estruturas de banco de banco de dados
 
-            +-------------------------------------------------------+
-            | Entidade        | Representação        | exemplo  |  
-            | Banco de dados  | BD_nome_sobrenome    | BD_ParaDecision |
-            | Tabela          | TBL_Nome_OrdemCriação| TBL_PROPOSICAO |                    
-            | Atributo        | AOrdemTabela     |    -     |
-            | Sequencia       | Representação    | exemplo  |  
-            | Procedure       |    -    | contem | contem   |
-            | Function        | cursa   |   -    |    -     |                    
-            | Trigger         | contido |  -     |    -     |                   
-            | Cursor          | contido |  -     |    -     |                                       
-            +------------------------------------------+
+            +---------------------------------------------------------------------+
+            | Entidade        | Representação         | exemplo                   |  
+            | Banco de dados  | BD_nome_sobrenome     | BD_ParaDecision           |
+            | Tabela          | TBL_Nome_OrdemCriação | TBL_PROPOSICAO_01         |                    
+            | Atributo        | AOrdemTabela_nome     | A01_codigo                |
+            | View            | VW_nome_OrdemCriação  | VW_TESTE_10               |    
+            | Sequencia       | SEQ_nome_OrdemCriação | SEQ_Proposição_01         |  
+            | Procedure       | PROC_NomeSobrenome    | PROC_InsereProposição     | 
+            | Function        | FUNC_NomeSobrenome    | FuncConsultsProposição    |                    
+            | Trigger         | TRI_NomeRegra         | TRI_ProposiçãoFindeSemana |                   
+            | Cursor          | CUR_Nome              | CUR_RetornaProposição     |                                       
+            +---------------------------------------------------------------------+

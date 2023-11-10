@@ -1,4 +1,4 @@
-#Padrões
+# Padrões
 - Maneira testada ou documentada de alcançar um objetivo qualquer
 - Pode ser unico
 - Uso de classes e metodos
@@ -11,4 +11,4 @@
 	- Problema que soluciona
 	- Solução so problema
 - Codificar conecimento existente para ser reaplicado em contextos diferentes
-#Metodos
+# Metodos
